@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Ha ha I was changed!
+          I am now running on AWS
         </p>
         <a
           className="App-link"
